@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\bin\Release\net5.0\ToDoList.Core.deps.json
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\bin\Release\net5.0\ToDoList.Core.dll
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\bin\Release\net5.0\ref\ToDoList.Core.dll
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\bin\Release\net5.0\ToDoList.Core.pdb
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ToDoList.Core.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ToDoList.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ToDoList.Core.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ToDoList.Core.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ToDoList.Core.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ToDoList.Core.dll
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ref\ToDoList.Core.dll
+C:\Users\ASUS\source\repos\ToDoList\ToDoList.Core\obj\Release\net5.0\ToDoList.Core.pdb
